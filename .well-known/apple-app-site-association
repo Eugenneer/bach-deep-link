@@ -5,6 +5,10 @@
     {
       "appID": "5DZPBBEJ86.com.newage.GOTRASHY",
       "paths": ["*"]
+    },
+    {
+      "appID": "5DZPBBEJ86.com.gotrashy.gt2.hauler",
+      "paths": ["*"]
     }
     ]
   }
