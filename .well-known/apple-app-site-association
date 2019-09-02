@@ -3,7 +3,11 @@
     "apps": [],
     "details": [
     {
-      "appID": "YRCKV6692A.com.mennatech.BACH",
+      "appID": "82T8ZJ8YWR.com.newage.GOTRASHY",
+      "paths": ["*"]
+    },
+    {
+      "appID": "82T8ZJ8YWR.com.gotrashy.gt2.hauler",
       "paths": ["*"]
     }
     ]
