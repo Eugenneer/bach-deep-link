@@ -3,11 +3,11 @@
     "apps": [],
     "details": [
     {
-      "appID": "5DZPBBEJ86.com.newage.GOTRASHY",
+      "appID": "VR5RXL44RC.com.thespaghettidetective.ios",
       "paths": ["*"]
     },
     {
-      "appID": "5DZPBBEJ86.com.gotrashy.gt2.hauler",
+      "appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
       "paths": ["*"]
     }
     ]
