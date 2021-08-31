@@ -4,12 +4,18 @@
     "details": [
       {
         "appID": "VR5RXL44RC.com.thespaghettidetective.ios",
-        "paths": ["NOT /videos/*", "NOT *universal_link=false", "*"]
+        "paths": ["NOT *videos*", "NOT *universal_link=false", "*"]
       },
 	    {
         "appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
-        "paths": ["NOT /videos/*", "NOT *universal_link=false", "*"]
+        "paths": ["NOT *videos*", "NOT *universal_link=false", "*"]
       }
     ]
   }
+  "webcredentials": {
+      "apps": [
+        "VR5RXL44RC.com.thespaghettidetective.ios",
+        "VR5RXL44RC.com.thespaghettidetective.stage.ios"
+      ]
+   }
 }
