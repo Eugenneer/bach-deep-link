@@ -4,11 +4,11 @@
     "details": [
       {
         "appID": "VR5RXL44RC.com.thespaghettidetective.ios",
-        "paths": ["NOT /*/", "NOT /*/*", "NOT *"]
+        "paths": ["NOT /*", "NOT /*/", "NOT /*/*", "NOT *"]
       },
 	    {
         "appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
-        "paths": ["NOT /*/", "NOT /*/*", "NOT *"]
+        "paths": ["NOT /*", "NOT /*/", "NOT /*/*", "NOT *"]
       }
     ]
   }
