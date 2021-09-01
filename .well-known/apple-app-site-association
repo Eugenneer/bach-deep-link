@@ -8,7 +8,7 @@
           {"/": "*", "?": "universal_link=false", "exclude": true},
           {"/": "*"},
 				],
-        "paths": ["NOT */?universal_link=false", "*"]
+        "paths": ["NOT *?universal_link=false", "*"]
 			},
       {
 				"appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
@@ -16,7 +16,7 @@
           {"/": "*", "?": "universal_link=false", "exclude": true},
           {"/": "*"},
 				],
-        "paths": ["NOT */?universal_link=false", "*"]
+        "paths": ["NOT *?universal_link=false", "*"]
 			}
     ]
   }
