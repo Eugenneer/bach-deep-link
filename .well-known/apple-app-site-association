@@ -5,7 +5,7 @@
       {
 				"appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
         "components": [
-          {"/": "/*", "?": "universal_link=false", "exclude": true},
+          {"/": "*", "?": "universal_link=false", "exclude": true},
           {"/": "*"},
 				],
         "paths": ["NOT */welcome/*", "*"]
