@@ -6,11 +6,7 @@
         "appID": "VR5RXL44RC.com.thespaghettidetective.ios",
         "components": [
           {
-            "/": "*",
-            "comment": "Matches all others URLs"
-          },
-          {
-            "/": "/*",
+            "#": "*",
             "comment": "Matches all others URLs"
           }
         ]
@@ -19,11 +15,7 @@
         "appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
         "components": [
           {
-            "/": "*",
-            "comment": "Matches all others URLs"
-          },
-          {
-            "/": "/*",
+            "#": "*",
             "comment": "Matches all others URLs"
           }
         ]
