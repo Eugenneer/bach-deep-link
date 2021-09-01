@@ -3,13 +3,13 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [ "VR5RXL44RC.com.thespaghettidetective.ios", "VR5RXL44RC.com.thespaghettidetective.stage.ios" ],
+				"appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
         "components": [
-          {
-            "/": "/welcome/"
-          }
-        ]
-      }
+				  {"/": "/welcome*"},
+				  {"?": { "universal_link": false }, exclude: true},
+          {"?": { "universalLink": false }, exclude: true}
+				]
+			}
     ]
   }
 }
