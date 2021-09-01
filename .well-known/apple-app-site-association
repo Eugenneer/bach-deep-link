@@ -1,15 +1,18 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "VR5RXL44RC.com.thespaghettidetective.ios",
-        "paths": ["*"]
-      },
-	    {
-        "appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
-        "paths": ["*"]
+        "appIDs": [ "VR5RXL44RC.com.thespaghettidetective.ios", "VR5RXL44RC.com.thespaghettidetective.stage.ios" ],
+        "components": [
+          {
+            "#": "*",
+            "comment": "Matches all others URLs"
+          }
+        ]
       }
     ]
+  }
+  "webcredentials": {
+    "apps": []
   }
 }
