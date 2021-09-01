@@ -7,8 +7,9 @@
         "components": [
 				  {"/": "/welcome*"},
 				  {"?": { "universal_link": false }, "exclude": true},
-          {"?": { "universalLink": false }, "exclude": true}
-				]
+          {"?": "universal_link=false", "exclude": true},
+          {"/": "/", "?": "universal_link=false", "exclude": true},
+				],
 			}
     ]
   }
