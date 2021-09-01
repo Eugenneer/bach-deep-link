@@ -8,6 +8,10 @@
           {
             "/": "*",
             "comment": "Matches all others URLs"
+          },
+          {
+            "/": "/*",
+            "comment": "Matches all others URLs"
           }
         ]
       },
@@ -17,9 +21,16 @@
           {
             "/": "*",
             "comment": "Matches all others URLs"
+          },
+          {
+            "/": "/*",
+            "comment": "Matches all others URLs"
           }
         ]
       }
     ]
+  }
+  "webcredentials": {
+    "apps": ["VR5RXL44RC.com.thespaghettidetective.ios", "VR5RXL44RC.com.thespaghettidetective.stage.ios"]
   }
 }
