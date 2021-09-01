@@ -6,14 +6,7 @@
         "appIDs": [ "VR5RXL44RC.com.thespaghettidetective.ios", "VR5RXL44RC.com.thespaghettidetective.stage.ios" ],
         "components": [
           {
-            "?": { "universal_link": "false" },
-            "exclude": true,
-            "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
-          },
-          {
-            "/": "*",
-            "#": "*",
-            "comment": "Matches any URL whose path starts with /help/website/ and instructs the system not to open it as a universal link"
+            "/": "/welcome/"
           }
         ]
       }
