@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-				"appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
+        "appIDs": [ "VR5RXL44RC.com.thespaghettidetective.ios", "VR5RXL44RC.com.thespaghettidetective.stage.ios" ],
         "components": [
           {"/": "*", "?": "universal_link=false", "exclude": true},
           {"/": "*"},
