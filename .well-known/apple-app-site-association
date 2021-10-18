@@ -5,6 +5,8 @@
       {
 				"appID": "VR5RXL44RC.com.thespaghettidetective.ios",
         "components": [
+          {"/": "*/ent_pub/*", "exclude": true},
+          {"/": "*/publictimelapses/*", "exclude": true},
           {"/": "*", "?": "universal_link=false", "exclude": true},
           {"/": "*"},
 				],
@@ -13,6 +15,8 @@
       {
 				"appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
         "components": [
+          {"/": "*/ent_pub/*", "exclude": true},
+          {"/": "*/publictimelapses/*", "exclude": true},
           {"/": "*", "?": "universal_link=false", "exclude": true},
           {"/": "*"},
 				],
